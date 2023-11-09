@@ -1,0 +1,29 @@
+Kalkulator BMI:
+Stwórz prosty kalkulator BMI, który pobiera wagę i wzrost od użytkownika, a następnie oblicza i wyświetla wynik.
+
+Zamiana temperatury:
+Napisz program, który przelicza temperaturę z Celsiusza na Fahrenheit lub odwrotnie, w zależności od wyboru użytkownika.
+
+Lista zadań do zrobienia:
+Stwórz prostą aplikację do zarządzania listą zadań. Umożliw użytkownikowi dodawanie, usuwanie i oznaczanie zadań jako zakończone.
+
+Logowanie użytkownika:
+Zaimplementuj system logowania i rejestracji użytkownika. Dane powinny być przechowywane w bazie danych.
+
+Galeria obrazków:
+Stwórz prostą galerię obrazków, gdzie użytkownicy mogą dodawać nowe obrazy, a także przeglądać i komentować istniejące.
+
+Generowanie losowego hasła:
+Napisz funkcję generującą losowe hasło o określonej długości z różnymi typami znaków.
+
+Walidacja formularza:
+Zaimplementuj walidację formularza, sprawdzając poprawność danych wprowadzanych przez użytkownika (np. email, hasło, numer telefonu).
+
+Czas od ostatniej wizyty:
+Przechowuj datę ostatniej wizyty użytkownika w pliku cookie i wyświetlaj czas, który minął od tego momentu.
+
+Pobieranie danych z API:
+Użyj PHP do pobrania danych z publicznego API (np. prognoza pogody) i wyświetlenia ich na stronie.
+
+Chat w czasie rzeczywistym:
+Stwórz prosty chat, który umożliwia użytkownikom komunikację w czasie rzeczywistym, bez konieczności odświeżania strony.
