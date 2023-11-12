@@ -79,12 +79,15 @@
             color: rgba(227, 227, 227,0.5); 
         }
 
-    a{
-        text-decoration:none;
-        color:#e3e3e3;
-        margin-top:10px;
+        a{
+        height:10vh;
         font-weight:bold;
-    }    
+        font-size:2rem;
+        text-decoration:none;
+        color:#FFFDFA;
+        text-shadow:1px 3px 3px rgba(15,15,15,0.5);
+    }
+
     </style>
 </head>
 <body>
@@ -113,6 +116,8 @@ if (isset($_POST["submit"])) {
     } else {
         echo "Nie wybrano pliku do przesłania.<br>";
     }
+} else{
+    ;
 }
 
 if (file_exists($plik)) {
